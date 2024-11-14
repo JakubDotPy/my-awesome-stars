@@ -89,6 +89,7 @@
 - [typescript](#typescript)
 - [web](#web)
 - [webapp](#webapp)
+- [website](#website)
 - [windows](#windows)
 
 ## ai 
@@ -211,6 +212,7 @@
 
 ## design 
 
+- [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
@@ -600,6 +602,10 @@
 ## webapp 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## website 
+
+- [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 
 ## windows 
 
