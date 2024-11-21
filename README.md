@@ -56,6 +56,7 @@
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [pyvec/cz.pycon.org](https://github.com/pyvec/cz.pycon.org) - PyCon CZ Website
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [AnetaPopelova/czechitas-python-a-pp22](https://github.com/AnetaPopelova/czechitas-python-a-pp22) - 
@@ -114,7 +115,6 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [wwmyers/hackpot](https://github.com/wwmyers/hackpot) - Comic Book, Nature, and Purple Themes for VSCode
 
 ## Python 
