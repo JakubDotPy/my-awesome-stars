@@ -467,6 +467,8 @@
 
 ## python 
 
+- [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [pygamelib/pygamelib](https://github.com/pygamelib/pygamelib) - A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.
 - [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
@@ -506,6 +508,7 @@
 
 ## python3 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [pygamelib/pygamelib](https://github.com/pygamelib/pygamelib) - A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [rohaquinlop/automathon](https://github.com/rohaquinlop/automathon) - A Python library for simulating and visualizing finite automata
@@ -543,6 +546,7 @@
 
 ## rust 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
