@@ -85,7 +85,7 @@
 - [AnetaPopelova/czechitas-python-pro-datovou-analyzu-2024-02](https://github.com/AnetaPopelova/czechitas-python-pro-datovou-analyzu-2024-02) - 
 - [pesikj/PythonProDataScience](https://github.com/pesikj/PythonProDataScience) - 
 - [sktime/sktime-tutorial-europython-2023](https://github.com/sktime/sktime-tutorial-europython-2023) - 
-- [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) - Advent of Code problems solved in Python.
+- [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
 ## MDX 
