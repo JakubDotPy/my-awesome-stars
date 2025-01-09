@@ -340,7 +340,7 @@
 
 ## jupyter-notebook 
 
-- [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) - Advent of Code problems solved in Python.
+- [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
 
 ## language 
 
@@ -504,7 +504,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [derailed-dash/Advent-of-Code](https://github.com/derailed-dash/Advent-of-Code) - Advent of Code problems solved in Python.
+- [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
