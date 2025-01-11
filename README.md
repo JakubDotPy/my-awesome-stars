@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -25,6 +26,10 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+
+## Astro 
+
+- [EuroPython/website](https://github.com/EuroPython/website) - Repository for the EuroPython 2022+ website.
 
 ## C 
 
@@ -90,7 +95,6 @@
 
 ## MDX 
 
-- [EuroPython/website](https://github.com/EuroPython/website) - Repository for the EuroPython 2022+ website.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Makefile 
