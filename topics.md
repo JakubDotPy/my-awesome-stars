@@ -45,6 +45,7 @@
 - [github](#github)
 - [github-api](#github-api)
 - [golang](#golang)
+- [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [http](#http)
@@ -290,6 +291,10 @@
 
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## graphql 
+
+- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
 ## hacktoberfest 
 
