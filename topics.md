@@ -399,6 +399,7 @@
 
 ## others 
 
+- [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
 - [xyphro/I3CBlaster](https://github.com/xyphro/I3CBlaster) - Raspberry pico / RP2040 based USB to I3C converter with Python support
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [pre-commit/pre-commit-rs](https://github.com/pre-commit/pre-commit-rs) - 
