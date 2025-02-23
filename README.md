@@ -59,6 +59,7 @@
 
 ## HTML 
 
+- [pyvec/pycamp.cz](https://github.com/pyvec/pycamp.cz) - pycamp.cz website and discussions
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -126,6 +127,7 @@
 
 ## Python 
 
+- [fossasia/led-name-badge-ls32](https://github.com/fossasia/led-name-badge-ls32) - Upload tool for an led name tag with USB-HID interface
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
 - [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
@@ -204,6 +206,7 @@
 
 ## Rust 
 
+- [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [pre-commit/pre-commit-rs](https://github.com/pre-commit/pre-commit-rs) - 
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
