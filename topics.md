@@ -15,6 +15,7 @@
 - [aws](#aws)
 - [backend](#backend)
 - [bash](#bash)
+- [c](#c)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -148,6 +149,10 @@
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## c 
+
+- [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 
 ## chatbot 
 
