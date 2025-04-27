@@ -429,6 +429,7 @@
 
 ## others 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [pyvec/pycamp.cz](https://github.com/pyvec/pycamp.cz) - pycamp.cz website and discussions
 - [fossasia/led-name-badge-ls32](https://github.com/fossasia/led-name-badge-ls32) - Upload tool for an led name tag with USB-HID interface
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
