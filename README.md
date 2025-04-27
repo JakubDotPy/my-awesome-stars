@@ -129,6 +129,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [fossasia/led-name-badge-ls32](https://github.com/fossasia/led-name-badge-ls32) - Upload tool for an led name tag with USB-HID interface
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
