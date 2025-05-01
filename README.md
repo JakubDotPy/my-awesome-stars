@@ -36,7 +36,7 @@
 - [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 - [xyphro/I3CBlaster](https://github.com/xyphro/I3CBlaster) - Raspberry pico / RP2040 based USB to I3C converter with Python support
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 
 ## C++ 
