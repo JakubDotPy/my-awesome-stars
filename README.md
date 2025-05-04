@@ -129,6 +129,7 @@
 
 ## Python 
 
+- [CiwPython/Ciw](https://github.com/CiwPython/Ciw) - Ciw is a simulation library for open queueing networks.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [fossasia/led-name-badge-ls32](https://github.com/fossasia/led-name-badge-ls32) - Upload tool for an led name tag with USB-HID interface
 - [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) - 
