@@ -129,6 +129,7 @@
 
 ## Python 
 
+- [pauloxnet/uDjango](https://github.com/pauloxnet/uDjango) - A single file Django micro project created for demonstration purposes to be used in the same way as other Python frameworks.
 - [CiwPython/Ciw](https://github.com/CiwPython/Ciw) - Ciw is a simulation library for open queueing networks.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [fossasia/led-name-badge-ls32](https://github.com/fossasia/led-name-badge-ls32) - Upload tool for an led name tag with USB-HID interface
