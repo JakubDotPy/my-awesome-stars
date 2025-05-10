@@ -162,7 +162,7 @@
 - [DarkEden-coding/Scythe-Spaghetti-detection](https://github.com/DarkEden-coding/Scythe-Spaghetti-detection) - Lightweight spaghetti detection program for self hosting on Raspberry-pi/single-board-computers
 - [toruseo/UXsim](https://github.com/toruseo/UXsim) - Vehicular traffic flow simulator in road network, written in pure Python
 - [EuroPython/discord](https://github.com/EuroPython/discord) - A helpful conference Discord Bot
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [blingenf/copydetect](https://github.com/blingenf/copydetect) - Code plagiarism detection tool
 - [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
