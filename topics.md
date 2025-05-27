@@ -274,7 +274,7 @@
 
 ## flask 
 
-- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
+- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 
 ## framework 
 
@@ -337,8 +337,8 @@
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
-- [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
+- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
+- [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -540,7 +540,7 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [rohaquinlop/automathon](https://github.com/rohaquinlop/automathon) - A Python library for simulating and visualizing finite automata
 - [DarkEden-coding/Scythe-Spaghetti-detection](https://github.com/DarkEden-coding/Scythe-Spaghetti-detection) - Lightweight spaghetti detection program for self hosting on Raspberry-pi/single-board-computers
-- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - DO NOT FORK, CLICK ON "Use this template" - A github template to start a Python Project - this uses github actions to generate your project based on the template.
+- [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [OrkoHunter/python-easter-eggs](https://github.com/OrkoHunter/python-easter-eggs) - Curated list of all the easter eggs and hidden jokes in Python
