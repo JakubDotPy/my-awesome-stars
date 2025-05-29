@@ -66,7 +66,6 @@
 - [pyvec/pycamp.cz](https://github.com/pyvec/pycamp.cz) - pycamp.cz website and discussions
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [pyvec/cz.pycon.org](https://github.com/pyvec/cz.pycon.org) - PyCon CZ Website
 - [AnetaPopelova/czechitas-python-a-pp22](https://github.com/AnetaPopelova/czechitas-python-a-pp22) - 
 
@@ -188,6 +187,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [jonasek369/Plane-Game](https://github.com/jonasek369/Plane-Game) - Plane game in pygame
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
