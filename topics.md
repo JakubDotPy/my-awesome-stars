@@ -380,6 +380,7 @@
 
 ## jupyter-notebook 
 
+- [jupyter/nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks
 - [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
 
 ## language 
