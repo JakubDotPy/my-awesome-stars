@@ -439,6 +439,7 @@
 
 ## others 
 
+- [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [pauloxnet/uDjango](https://github.com/pauloxnet/uDjango) - A single file Django micro project created for demonstration purposes to be used in the same way as other Python frameworks.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
