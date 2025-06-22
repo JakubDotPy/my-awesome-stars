@@ -111,6 +111,8 @@
 
 ## Others 
 
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [clonehero-game/releases](https://github.com/clonehero-game/releases) - Clone Hero Releases
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
