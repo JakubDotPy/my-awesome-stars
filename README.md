@@ -111,6 +111,7 @@
 
 ## Others 
 
+- [JaKooLit/Ubuntu-Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland) - Automated Hyprland installer for Ubuntu. NOTE: Repo Branches as per Ubuntu Versions
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [clonehero-game/releases](https://github.com/clonehero-game/releases) - Clone Hero Releases
@@ -237,6 +238,7 @@
 
 ## Shell 
 
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 
