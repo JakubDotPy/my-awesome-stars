@@ -33,6 +33,8 @@
 
 ## C 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 - [xyphro/I3CBlaster](https://github.com/xyphro/I3CBlaster) - Raspberry pico / RP2040 based USB to I3C converter with Python support
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
