@@ -15,6 +15,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -98,6 +99,10 @@
 - [sktime/sktime-tutorial-europython-2023](https://github.com/sktime/sktime-tutorial-europython-2023) - 
 - [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+
+## Just 
+
+- [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Product Part 2 video
 
 ## MDX 
 
@@ -225,6 +230,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [pre-commit/pre-commit-rs](https://github.com/pre-commit/pre-commit-rs) - 
