@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [sukesh-ak/setup-mosquitto-with-docker](https://github.com/sukesh-ak/setup-mosquitto-with-docker) - How to setup Mosquitto MQTT Broker using docker with Authentication and Websocket support.
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
