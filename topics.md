@@ -25,6 +25,7 @@
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [csharp](#csharp)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-structures](#data-structures)
@@ -78,6 +79,7 @@
 - [openai](#openai)
 - [others](#others)
 - [parsing](#parsing)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -220,6 +222,10 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 
+## csharp 
+
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
+
 ## data 
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -324,6 +330,7 @@
 
 ## game-development 
 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [pygamelib/pygamelib](https://github.com/pygamelib/pygamelib) - A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.
 - [salt-die/batgrl](https://github.com/salt-die/batgrl) - badass terminal graphics library
 
@@ -559,6 +566,10 @@
 ## parsing 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+## pixel-art 
+
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 
 ## postgresql 
 
