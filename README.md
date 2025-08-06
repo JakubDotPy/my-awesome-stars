@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
@@ -41,6 +42,10 @@
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
+
+## C# # 
+
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 
 ## C++ 
 
