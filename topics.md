@@ -64,6 +64,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [language](#language)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
@@ -432,6 +433,10 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 
+## library 
+
+- [viblo/pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
+
 ## linux 
 
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -604,6 +609,7 @@
 
 ## python 
 
+- [viblo/pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [CiwPython/Ciw](https://github.com/CiwPython/Ciw) - Ciw is a simulation library for open queueing networks.
