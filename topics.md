@@ -502,6 +502,7 @@
 
 ## others 
 
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [rvben/rumdl](https://github.com/rvben/rumdl) - A Markdown Linter written in Rust
 - [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
