@@ -248,6 +248,7 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rvben/rumdl](https://github.com/rvben/rumdl) - A Markdown Linter written in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
