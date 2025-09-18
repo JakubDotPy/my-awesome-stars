@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
+- [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -111,6 +112,10 @@
 ## Just 
 
 - [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Product Part 2 video
+
+## Kotlin 
+
+- [InSyncWithFoo/ryecharm](https://github.com/InSyncWithFoo/ryecharm) - The all-in-one PyCharm plugin for Astral-backed Python tools
 
 ## MDX 
 
@@ -248,6 +253,7 @@
 
 ## Rust 
 
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rvben/rumdl](https://github.com/rvben/rumdl) - A Markdown Linter written in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
