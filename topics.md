@@ -517,6 +517,8 @@
 
 ## others 
 
+- [CoreyMSchafer/AsyncIO-Code-Examples](https://github.com/CoreyMSchafer/AsyncIO-Code-Examples) - 
+- [CoreyMSchafer/AsyncIO-Animations](https://github.com/CoreyMSchafer/AsyncIO-Animations) - 
 - [bterwijn/memory_graph](https://github.com/bterwijn/memory_graph) - Teaching tool and debugging aid in context of references, mutable data types, and shallow and deep copy.
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [rvben/rumdl](https://github.com/rvben/rumdl) - A Markdown Linter written in Rust
