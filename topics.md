@@ -110,6 +110,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [typescript](#typescript)
+- [visualization](#visualization)
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
@@ -799,6 +800,12 @@
 ## typescript 
 
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+
+## visualization 
+
+- [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
+- [rohaquinlop/automathon](https://github.com/rohaquinlop/automathon) - A Python library for simulating and visualizing finite automata
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 
 ## web 
 
