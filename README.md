@@ -107,6 +107,7 @@
 - [AnetaPopelova/czechitas-python-pro-datovou-analyzu-2024-02](https://github.com/AnetaPopelova/czechitas-python-pro-datovou-analyzu-2024-02) - 
 - [pesikj/PythonProDataScience](https://github.com/pesikj/PythonProDataScience) - 
 - [sktime/sktime-tutorial-europython-2023](https://github.com/sktime/sktime-tutorial-europython-2023) - 
+- [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
 ## Just 
@@ -235,7 +236,6 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [mschrandt/NPuzzle](https://github.com/mschrandt/NPuzzle) - 
-- [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
 - [cynrd/blog](https://github.com/cynrd/blog) - 
 - [EvaVelechovska/ucime_se_PySimpleGUI](https://github.com/EvaVelechovska/ucime_se_PySimpleGUI) - 
 - [pyladies-pilsen/generator-diplomu](https://github.com/pyladies-pilsen/generator-diplomu) - Generování závěrečného diplomu pro absolventky.
