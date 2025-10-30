@@ -218,6 +218,7 @@
 
 ## cli 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -650,6 +651,7 @@
 
 ## python 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [AsyncFlow-Sim/AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) - Scenario-driven simulator for async distributed systems: declare topologies, run simulations, measure latency/throughput, resource usage and see where bottlenecks emerge.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [InSyncWithFoo/ryecharm](https://github.com/InSyncWithFoo/ryecharm) - The all-in-one PyCharm plugin for Astral-backed Python tools
@@ -773,6 +775,7 @@
 
 ## shell 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
