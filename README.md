@@ -155,6 +155,7 @@
 
 ## Python 
 
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [CoreyMSchafer/AsyncIO-Code-Examples](https://github.com/CoreyMSchafer/AsyncIO-Code-Examples) - 
 - [AsyncFlow-Sim/AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) - Scenario-driven simulator for async distributed systems: declare topologies, run simulations, measure latency/throughput, resource usage and see where bottlenecks emerge.
 - [bterwijn/memory_graph](https://github.com/bterwijn/memory_graph) - Teaching tool and debugging aid in context of references, mutable data types, and shallow and deep copy.
