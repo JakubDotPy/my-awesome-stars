@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [CoreyMSchafer/AsyncIO-Animations](https://github.com/CoreyMSchafer/AsyncIO-Animations) - 
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
