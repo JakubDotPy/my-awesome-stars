@@ -258,6 +258,7 @@
 
 ## command-line 
 
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -355,6 +356,7 @@
 
 ## docker 
 
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
@@ -556,6 +558,7 @@
 
 ## monitoring 
 
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
 ## mysql 
