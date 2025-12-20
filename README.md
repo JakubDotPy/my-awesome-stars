@@ -262,6 +262,8 @@
 
 ## Rust 
 
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) - Blazing fast Rust solutions for every Advent of Code puzzle from 2015 to 2025, solving 524 stars in less than 1 second.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
