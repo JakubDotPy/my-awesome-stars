@@ -157,6 +157,7 @@
 
 ## Python 
 
+- [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - 
 - [cak/elf](https://github.com/cak/elf) - A modern Advent of Code helper that fetches inputs, submits answers, and tracks your progress.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [CoreyMSchafer/AsyncIO-Code-Examples](https://github.com/CoreyMSchafer/AsyncIO-Code-Examples) - 
