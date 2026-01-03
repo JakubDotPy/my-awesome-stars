@@ -157,7 +157,7 @@
 
 ## Python 
 
-- [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - 
+- [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - Production-ready backend infrastructure SDK for Python
 - [cak/elf](https://github.com/cak/elf) - A modern Advent of Code helper that fetches inputs, submits answers, and tracks your progress.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [CoreyMSchafer/AsyncIO-Code-Examples](https://github.com/CoreyMSchafer/AsyncIO-Code-Examples) - 
@@ -169,7 +169,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [viblo/pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [slaily/aiosqlitepool](https://github.com/slaily/aiosqlitepool) - 🛡️A resilient, high-performance asynchronous connection pool layer for SQLite, designed for efficient and scalable database operations.
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity's Last Exam
