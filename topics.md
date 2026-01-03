@@ -599,7 +599,7 @@
 
 ## others 
 
-- [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - 
+- [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - Production-ready backend infrastructure SDK for Python
 - [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) - Blazing fast Rust solutions for every Advent of Code puzzle from 2015 to 2025, solving 524 stars in less than 1 second.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [CoreyMSchafer/AsyncIO-Code-Examples](https://github.com/CoreyMSchafer/AsyncIO-Code-Examples) - 
@@ -608,7 +608,7 @@
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [slaily/aiosqlitepool](https://github.com/slaily/aiosqlitepool) - 🛡️A resilient, high-performance asynchronous connection pool layer for SQLite, designed for efficient and scalable database operations.
 - [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity's Last Exam
 - [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Product Part 2 video
