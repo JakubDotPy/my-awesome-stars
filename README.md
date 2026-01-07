@@ -50,7 +50,7 @@
 
 ## C++ 
 
-- [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard/mouse/touchpad actions to system actions
+- [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard, mouse, touchpad and touchscreen actions to system actions
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
