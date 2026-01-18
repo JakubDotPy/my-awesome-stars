@@ -73,6 +73,7 @@
 - [javascript](#javascript)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [learning](#learning)
 - [library](#library)
@@ -361,6 +362,7 @@
 
 ## docker 
 
+- [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -513,6 +515,10 @@
 
 - [jupyter/nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks
 - [derailed-dash/advent-of-code](https://github.com/derailed-dash/advent-of-code) - Advent of Code problems solved in Python.
+
+## kubernetes 
+
+- [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
 
 ## language 
 
@@ -726,6 +732,7 @@
 
 ## python 
 
+- [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
 - [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler) - Decorator-first Python scheduler — cron/interval/at jobs with simple persistence and built-in run history.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
