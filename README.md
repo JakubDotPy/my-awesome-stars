@@ -190,7 +190,7 @@
 - [mslaursen/fastapi-forge](https://github.com/mslaursen/fastapi-forge) - A UI Based FastAPI Project Generation tool.
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [jupyter/nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [pauloxnet/uDjango](https://github.com/pauloxnet/uDjango) - A single file Django micro project created for demonstration purposes to be used in the same way as other Python frameworks.
 - [CiwPython/Ciw](https://github.com/CiwPython/Ciw) - Ciw is a simulation library for open queueing networks.
