@@ -622,6 +622,9 @@
 
 ## others 
 
+- [OpenPrintTag/openprinttag-architecture](https://github.com/OpenPrintTag/openprinttag-architecture) - Architecture/onthology for the OpenPrintTag initiative
+- [OpenPrintTag/openprinttag-specification](https://github.com/OpenPrintTag/openprinttag-specification) - Open standard for 3D printing material data format
+- [OpenPrintTag/openprinttag-database](https://github.com/OpenPrintTag/openprinttag-database) - 
 - [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - Production-ready backend infrastructure SDK for Python
 - [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) - Blazing fast Rust solutions for every Advent of Code puzzle from 2015 to 2025, solving 524 stars in less than 1 second.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
