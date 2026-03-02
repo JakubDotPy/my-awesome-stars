@@ -93,6 +93,7 @@
 
 ## JavaScript 
 
+- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [CoreyMSchafer/AsyncIO-Animations](https://github.com/CoreyMSchafer/AsyncIO-Animations) - 
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
