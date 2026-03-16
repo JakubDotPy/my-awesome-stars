@@ -314,6 +314,7 @@
 
 ## TypeScript 
 
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [OpenPrintTag/openprinttag-database](https://github.com/OpenPrintTag/openprinttag-database) - 
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
