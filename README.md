@@ -265,7 +265,7 @@
 - [andywaltlova/UDP_1_python](https://github.com/andywaltlova/UDP_1_python) - Materials for lecturing introduction to programming 1 in Czechitas
 - [danielwilczak101/EasyGA](https://github.com/danielwilczak101/EasyGA) - EasyGA is a python package designed to provide an easy-to-use Genetic Algorithm. The package is designed to work right out of the box, while also allowing the user to customize features as they see fi
 - [anthonywritescode/aoc2021](https://github.com/anthonywritescode/aoc2021) - https://adventofcode.com/2021
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [LubosKolouch/AdventOfCode_2020](https://github.com/LubosKolouch/AdventOfCode_2020) - Repo to track the tasks from Advent Of Code 2020
 
 ## R 
@@ -307,6 +307,7 @@
 
 ## Shell 
 
+- [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard. mouse, touchpad and touchscreen actions to system actions
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
