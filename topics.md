@@ -45,6 +45,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -371,6 +372,12 @@
 ## discord 
 
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+
+## distributed-systems 
+
+- [AsyncFlow-Sim/AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) - Scenario-driven simulator for async distributed systems: declare topologies, run simulations, measure latency/throughput, resource usage and see where bottlenecks emerge.
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 
 ## django 
 
