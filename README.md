@@ -117,7 +117,7 @@
 
 ## Just 
 
-- [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Product Part 2 video
+- [hynek/hello-svc-part-2](https://github.com/hynek/hello-svc-part-2) - The example code for my uv in Production Part 2 video
 
 ## Kotlin 
 
@@ -266,7 +266,7 @@
 - [andywaltlova/UDP_1_python](https://github.com/andywaltlova/UDP_1_python) - Materials for lecturing introduction to programming 1 in Czechitas
 - [danielwilczak101/EasyGA](https://github.com/danielwilczak101/EasyGA) - EasyGA is a python package designed to provide an easy-to-use Genetic Algorithm. The package is designed to work right out of the box, while also allowing the user to customize features as they see fi
 - [anthonywritescode/aoc2021](https://github.com/anthonywritescode/aoc2021) - https://adventofcode.com/2021
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [LubosKolouch/AdventOfCode_2020](https://github.com/LubosKolouch/AdventOfCode_2020) - Repo to track the tasks from Advent Of Code 2020
 
 ## R 
