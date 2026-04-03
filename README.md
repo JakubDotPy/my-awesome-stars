@@ -92,6 +92,7 @@
 
 ## JavaScript 
 
+- [grayashh/buddy-reroll](https://github.com/grayashh/buddy-reroll) - Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [CoreyMSchafer/AsyncIO-Animations](https://github.com/CoreyMSchafer/AsyncIO-Animations) - 
@@ -225,7 +226,7 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [rohaquinlop/automathon](https://github.com/rohaquinlop/automathon) - A Python library for simulating and visualizing finite automata
 - [DarkEden-coding/Scythe-Spaghetti-detection](https://github.com/DarkEden-coding/Scythe-Spaghetti-detection) - Lightweight spaghetti detection program for self hosting on Raspberry-pi/single-board-computers
-- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Vehicular traffic flow simulator in road network, written in pure Python
+- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Vehicular traffic flow simulator in road network for Python
 - [EuroPython/discord](https://github.com/EuroPython/discord) - A helpful conference Discord Bot
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [blingenf/copydetect](https://github.com/blingenf/copydetect) - Code plagiarism detection tool
@@ -279,6 +280,7 @@
 
 ## Rust 
 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
 - [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - Rust-powered WebSocket engine for Python. Up to 5M del/s fan-out, native cluster binary protocol, zero-GIL JWT, E2E encryption
 - [ploMP4/webrockets](https://github.com/ploMP4/webrockets) - High-performance rust powered websocket server for python
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
