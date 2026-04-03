@@ -676,6 +676,8 @@
 
 ## others 
 
+- [grayashh/buddy-reroll](https://github.com/grayashh/buddy-reroll) - Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -724,7 +726,7 @@
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [abhinand-c/europython-2024-resources](https://github.com/abhinand-c/europython-2024-resources) - 
 - [Textualize/textual-serve](https://github.com/Textualize/textual-serve) - Serve Textual apps locally
-- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Vehicular traffic flow simulator in road network, written in pure Python
+- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Vehicular traffic flow simulator in road network for Python
 - [EuroPython/website](https://github.com/EuroPython/website) - Repository for the EuroPython 2022+ website.
 - [EuroPython/discord](https://github.com/EuroPython/discord) - A helpful conference Discord Bot
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
