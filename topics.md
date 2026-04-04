@@ -51,6 +51,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [emoji](#emoji)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flask](#flask)
@@ -416,6 +417,10 @@
 ## emoji 
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+## esp32 
+
+- [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 
 ## fastapi 
 
