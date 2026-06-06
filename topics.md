@@ -727,6 +727,7 @@
 
 ## others 
 
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
 - [yassi/dj-urls-panel](https://github.com/yassi/dj-urls-panel) - Visualize Django URL routing inside the Django Admin, including patterns, views, namespaces, and conflicts
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
