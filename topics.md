@@ -757,6 +757,7 @@
 
 ## others 
 
+- [PlanetInnovation/micropython-mock-machine](https://github.com/PlanetInnovation/micropython-mock-machine) - A MicroPython library designed to mock the machine module for use in unit tests.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
