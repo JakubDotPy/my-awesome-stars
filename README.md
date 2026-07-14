@@ -168,6 +168,7 @@
 
 ## Python 
 
+- [PlanetInnovation/micropython-mock-machine](https://github.com/PlanetInnovation/micropython-mock-machine) - A MicroPython library designed to mock the machine module for use in unit tests.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
