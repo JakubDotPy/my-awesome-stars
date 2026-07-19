@@ -761,7 +761,7 @@
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
-- [yassi/dj-urls-panel](https://github.com/yassi/dj-urls-panel) - Visualize Django URL routing inside the Django Admin, including patterns, views, namespaces, and conflicts
+- [django-control-room/dj-urls-panel](https://github.com/django-control-room/dj-urls-panel) - Visualize Django URL routing inside the Django Admin, including patterns, views, namespaces, and conflicts
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
