@@ -162,7 +162,7 @@
 - [dbader/readme-template](https://github.com/dbader/readme-template) - README.md template for your open-source project
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [wwmyers/hackpot](https://github.com/wwmyers/hackpot) - Comic Book, Nature, and Purple Themes for VSCode
 
@@ -207,7 +207,7 @@
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [slaily/aiosqlitepool](https://github.com/slaily/aiosqlitepool) - 🛡️A resilient, high-performance asynchronous connection pool layer for SQLite, designed for efficient and scalable database operations.
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
 - [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity's Last Exam
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [mslaursen/fastapi-forge](https://github.com/mslaursen/fastapi-forge) - A UI Based FastAPI Project Generation tool.
