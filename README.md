@@ -91,7 +91,7 @@
 ## Java 
 
 - [Wilm0r/giggity](https://github.com/Wilm0r/giggity) - Generic Android conference schedule viewer
-- [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
+- [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, sch
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
 - [krasa/StringManipulation](https://github.com/krasa/StringManipulation) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/2162
