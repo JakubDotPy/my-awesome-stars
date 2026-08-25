@@ -627,7 +627,7 @@
 ## iot 
 
 - [DamascenoRafael/mqtt-simulator](https://github.com/DamascenoRafael/mqtt-simulator) - A lightweight, easy-to-configure MQTT simulator written in Python 3 for publishing JSON objects to a broker, simulating sensors and devices.
-- [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
+- [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, sch
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 
 ## java 
