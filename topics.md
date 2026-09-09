@@ -679,7 +679,6 @@
 
 ## linux 
 
-- [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard. mouse, touchpad and touchscreen actions to system actions
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -792,6 +791,7 @@
 - [OpenPrintTag/openprinttag-database](https://github.com/OpenPrintTag/openprinttag-database) - 
 - [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - Production-ready backend infrastructure SDK for Python
 - [maneatingape/advent-of-code-rust](https://github.com/maneatingape/advent-of-code-rust) - Blazing fast Rust solutions for every Advent of Code puzzle from 2015 to 2025, solving 524 stars in less than 1 second.
+- [InputActions/discussions](https://github.com/InputActions/discussions) - Global issue tracker for InputActions (formerly the main repository)
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [CoreyMSchafer/AsyncIO-Code-Examples](https://github.com/CoreyMSchafer/AsyncIO-Code-Examples) - 
 - [CoreyMSchafer/AsyncIO-Animations](https://github.com/CoreyMSchafer/AsyncIO-Animations) - 
