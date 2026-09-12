@@ -925,6 +925,7 @@
 
 ## python 
 
+- [ashuttl/linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, and maps, in your terminal. The Old Farmer's Almanac meets Minitel.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - Rust-powered WebSocket engine for Python. Up to 5M del/s fan-out, native cluster binary protocol, zero-GIL JWT, E2E encryption
@@ -1128,6 +1129,7 @@
 
 ## terminal 
 
+- [ashuttl/linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, and maps, in your terminal. The Old Farmer's Almanac meets Minitel.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
@@ -1154,6 +1156,7 @@
 
 ## tui 
 
+- [ashuttl/linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, and maps, in your terminal. The Old Farmer's Almanac meets Minitel.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
