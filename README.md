@@ -168,6 +168,7 @@
 
 ## Python 
 
+- [ashuttl/linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, and maps, in your terminal. The Old Farmer's Almanac meets Minitel.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [PlanetInnovation/micropython-mock-machine](https://github.com/PlanetInnovation/micropython-mock-machine) - A MicroPython library designed to mock the machine module for use in unit tests.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
