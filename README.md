@@ -168,6 +168,7 @@
 
 ## Python 
 
+- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [ashuttl/linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, maps, and a planetarium, in your terminal. The Old Farmer's Almanac meets Minitel.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [PlanetInnovation/micropython-mock-machine](https://github.com/PlanetInnovation/micropython-mock-machine) - A MicroPython library designed to mock the machine module for use in unit tests.
