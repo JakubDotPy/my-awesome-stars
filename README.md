@@ -209,7 +209,7 @@
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [slaily/aiosqlitepool](https://github.com/slaily/aiosqlitepool) - 🛡️A resilient, high-performance asynchronous connection pool layer for SQLite, designed for efficient and scalable database operations.
-- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Type-safe datetimes for Python that get DST right. Rust or pure Python, your choice.
 - [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity's Last Exam
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [mslaursen/fastapi-forge](https://github.com/mslaursen/fastapi-forge) - A UI Based FastAPI Project Generation tool.
