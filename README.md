@@ -75,6 +75,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -237,7 +238,6 @@
 - [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [abhinand-c/europython-2024-resources](https://github.com/abhinand-c/europython-2024-resources) - 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [benavlabs/fastcrud](https://github.com/benavlabs/fastcrud) - FastCRUD is a Python package for FastAPI, offering robust async CRUD operations and flexible endpoint creation utilities.
 - [Textualize/textual-serve](https://github.com/Textualize/textual-serve) - Serve Textual apps locally
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
@@ -298,6 +298,7 @@
 
 ## Rust 
 
+- [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
