@@ -658,6 +658,7 @@
 ## iot 
 
 - [DamascenoRafael/mqtt-simulator](https://github.com/DamascenoRafael/mqtt-simulator) - A lightweight, easy-to-configure MQTT simulator written in Python 3 for publishing JSON objects to a broker, simulating sensors and devices.
+- [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, sch
 - [rbaron/b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 
 ## java 
@@ -851,6 +852,7 @@
 - [rednafi/fastapi-nano](https://github.com/rednafi/fastapi-nano) - 🐍 Simple FastAPI template that mimics Flask's blueprint directory structure
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [eclipse-paho/paho.mqtt.python](https://github.com/eclipse-paho/paho.mqtt.python) - paho.mqtt.python
+- [aklivity/zilla-demos](https://github.com/aklivity/zilla-demos) - Zilla Demos
 - [TonnoBelloSnello/microrabbit](https://github.com/TonnoBelloSnello/microrabbit) - MicroRabbit: A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems. Features include easy message routing, plugin support, and intuit
 - [benthayer/git-gud](https://github.com/benthayer/git-gud) - Wanna git gud? Then get git-gud, and git gud at git!
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
