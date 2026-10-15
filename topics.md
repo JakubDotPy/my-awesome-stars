@@ -858,7 +858,7 @@
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [abhinand-c/europython-2024-resources](https://github.com/abhinand-c/europython-2024-resources) - 
 - [Textualize/textual-serve](https://github.com/Textualize/textual-serve) - Serve Textual apps locally
-- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Vehicular traffic flow simulator in road network for Python
+- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Fast network traffic flow simulator for Python
 - [EuroPython/website](https://github.com/EuroPython/website) - Repository for the EuroPython 2022+ website.
 - [EuroPython/discord](https://github.com/EuroPython/discord) - A helpful conference Discord Bot
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
