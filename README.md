@@ -246,7 +246,7 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [rohaquinlop/automathon](https://github.com/rohaquinlop/automathon) - A Python library for simulating and visualizing finite automata
 - [DarkEden-coding/Scythe-Spaghetti-detection](https://github.com/DarkEden-coding/Scythe-Spaghetti-detection) - Lightweight spaghetti detection program for self hosting on Raspberry-pi/single-board-computers
-- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Vehicular traffic flow simulator in road network for Python
+- [toruseo/UXsim](https://github.com/toruseo/UXsim) - Fast network traffic flow simulator for Python
 - [EuroPython/discord](https://github.com/EuroPython/discord) - A helpful conference Discord Bot
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [blingenf/copydetect](https://github.com/blingenf/copydetect) - Code plagiarism detection tool
