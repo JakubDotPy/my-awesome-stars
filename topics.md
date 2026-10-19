@@ -803,6 +803,9 @@
 
 ## others 
 
+- [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim) - Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription.
+- [lpviz/lpviz](https://github.com/lpviz/lpviz) - Visualize linear programming at https://lpviz.net
+- [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator) - Commodore 64 hardware simulator
 - [PlanetInnovation/micropython-mock-machine](https://github.com/PlanetInnovation/micropython-mock-machine) - A MicroPython library designed to mock the machine module for use in unit tests.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
