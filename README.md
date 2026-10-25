@@ -302,6 +302,7 @@
 
 ## Rust 
 
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for computer people. Lofi, games, chat, artboard, and tech news, all via SSH.
 - [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim) - Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription.
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
