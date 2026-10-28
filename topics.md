@@ -137,6 +137,7 @@
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -513,7 +514,7 @@
 
 ## embedded 
 
-- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi motion sensing platform for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 
 ## emoji 
 
@@ -649,7 +650,7 @@
 
 ## home-assistant 
 
-- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi motion sensing platform for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
 ## http 
@@ -1130,6 +1131,10 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## skills 
+
+- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 
 ## software 
 
