@@ -153,6 +153,7 @@
 - [tui](#tui)
 - [typescript](#typescript)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
@@ -1243,6 +1244,10 @@
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [rohaquinlop/automathon](https://github.com/rohaquinlop/automathon) - A Python library for simulating and visualizing finite automata
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
+
+## vscode 
+
+- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
 ## web 
 
