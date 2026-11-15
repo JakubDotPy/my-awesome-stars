@@ -997,7 +997,7 @@
 - [ashuttl/linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, maps, and a planetarium, in your terminal. The Old Farmer's Almanac meets Minitel.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - Rust-powered WebSocket engine for Python. Up to 9M deliveries/s fan-out on every core, native cluster binary protocol, zero-GIL JWT, E2E encryption, signed messages
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - high-performance WebSocket engine for Python, built in Rust. Fan-out on every CPU core, native cluster binary protocol, zero-GIL JWT, E2E encryption, signed messages.
 - [heikkitoivonen/python-time-space-complexity](https://github.com/heikkitoivonen/python-time-space-complexity) - Python time and space complexity documentation
 - [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python
 - [ploMP4/webrockets](https://github.com/ploMP4/webrockets) - High-performance rust powered websockets for python
@@ -1123,7 +1123,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - Rust-powered WebSocket engine for Python. Up to 9M deliveries/s fan-out on every core, native cluster binary protocol, zero-GIL JWT, E2E encryption, signed messages
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - high-performance WebSocket engine for Python, built in Rust. Fan-out on every CPU core, native cluster binary protocol, zero-GIL JWT, E2E encryption, signed messages.
 - [ploMP4/webrockets](https://github.com/ploMP4/webrockets) - High-performance rust powered websockets for python
 - [colliery-io/graphqlite](https://github.com/colliery-io/graphqlite) - A SQLite extension that adds graph database capabilities with Cypher query language support and built-in graph algorithms.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
