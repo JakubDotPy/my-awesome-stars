@@ -197,7 +197,7 @@
 - [MichielMe/fastscheduler](https://github.com/MichielMe/fastscheduler) - Decorator-first Python scheduler — cron/interval/at jobs with simple persistence and built-in run history.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [nfraxlab/svc-infra](https://github.com/nfraxlab/svc-infra) - Production-ready backend infrastructure SDK for Python
-- [cak/elf](https://github.com/cak/elf) - A modern Advent of Code helper that fetches inputs, submits answers, and tracks your progress.
+- [snally-dev/elf](https://github.com/snally-dev/elf) - A modern Advent of Code helper that fetches inputs, submits answers, and tracks your progress.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [CoreyMSchafer/AsyncIO-Code-Examples](https://github.com/CoreyMSchafer/AsyncIO-Code-Examples) - 
 - [AsyncFlow-Sim/AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) - Scenario-driven simulator for async distributed systems: declare topologies, run simulations, measure latency/throughput, resource usage and see where bottlenecks emerge.
@@ -254,7 +254,7 @@
 - [blingenf/copydetect](https://github.com/blingenf/copydetect) - Code plagiarism detection tool
 - [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
+- [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - Unmaintained. Use datamodel-code-generator instead. Generates FastAPI apps from OpenAPI files.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [adamcharnock/lightbus](https://github.com/adamcharnock/lightbus) - RPC & event framework for Python
@@ -312,7 +312,7 @@
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - high-performance WebSocket engine for Python, built in Rust. Fan-out on every CPU core, native cluster binary protocol, zero-GIL JWT, E2E encryption, signed messages.
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 - [ploMP4/webrockets](https://github.com/ploMP4/webrockets) - High-performance rust powered websockets for python
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
