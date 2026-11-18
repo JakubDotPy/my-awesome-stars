@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -41,6 +42,7 @@
 - [cpp](#cpp)
 - [crawler](#crawler)
 - [csharp](#csharp)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-structures](#data-structures)
@@ -65,6 +67,7 @@
 - [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flask](#flask)
+- [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
@@ -91,6 +94,7 @@
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [knowledge-graph](#knowledge-graph)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [latex](#latex)
 - [learning](#learning)
@@ -133,6 +137,7 @@
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redteam](#redteam)
 - [rest-api](#rest-api)
@@ -147,6 +152,8 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [svelte](#svelte)
+- [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
@@ -156,6 +163,7 @@
 - [typescript](#typescript)
 - [visualization](#visualization)
 - [vscode](#vscode)
+- [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
@@ -179,6 +187,10 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [heikkitoivonen/python-time-space-complexity](https://github.com/heikkitoivonen/python-time-space-complexity) - Python time and space complexity documentation
+
+## agentic-ai 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 
 ## agents 
 
@@ -230,6 +242,7 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 - [Wilm0r/giggity](https://github.com/Wilm0r/giggity) - Generic Android conference schedule viewer
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
@@ -414,6 +427,10 @@
 
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 
+## dart 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+
 ## data 
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
@@ -565,6 +582,10 @@
 
 - [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 
+## flutter 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+
 ## framework 
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -678,6 +699,7 @@
 
 ## ios 
 
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## iot 
@@ -716,6 +738,10 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 - [colliery-io/graphqlite](https://github.com/colliery-io/graphqlite) - A SQLite extension that adds graph database capabilities with Cypher query language support and built-in graph algorithms.
+
+## kotlin 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 
 ## kubernetes 
 
@@ -846,6 +872,8 @@
 
 ## others 
 
+- [JakubDotPy/connect-fleet-view](https://github.com/JakubDotPy/connect-fleet-view) - Prusa Connect extension: the print farm as racks, shelves and slots, with batch control.
+- [prusa3d/prusa-connect](https://github.com/prusa3d/prusa-connect) - Prusa Connect: a local server for your printers
 - [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono) - A compact monospace neo-grotesque font designed for developers (and adventurers).
 - [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim) - Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription.
 - [lpviz/lpviz](https://github.com/lpviz/lpviz) - Visualize linear programming at https://lpviz.net
@@ -1094,9 +1122,14 @@
 ## react 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
+
+## react-native 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 
 ## reactjs 
 
@@ -1196,6 +1229,14 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 
+## svelte 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+
+## swift 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+
 ## tailwindcss 
 
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
@@ -1247,6 +1288,7 @@
 ## typescript 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1260,6 +1302,10 @@
 ## vscode 
 
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+
+## vue 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
 
 ## web 
 
