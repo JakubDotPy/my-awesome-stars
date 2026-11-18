@@ -28,6 +28,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 
 ## Astro 
@@ -70,6 +71,7 @@
 
 ## Go 
 
+- [prusa3d/prusa-connect](https://github.com/prusa3d/prusa-connect) - Prusa Connect: a local server for your printers
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
@@ -348,6 +350,10 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
+
+## Svelte 
+
+- [JakubDotPy/connect-fleet-view](https://github.com/JakubDotPy/connect-fleet-view) - Prusa Connect extension: the print farm as racks, shelves and slots, with batch control.
 
 ## TypeScript 
 
