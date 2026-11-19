@@ -16,6 +16,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -42,7 +43,6 @@
 - [cpp](#cpp)
 - [crawler](#crawler)
 - [csharp](#csharp)
-- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-structures](#data-structures)
@@ -61,6 +61,7 @@
 - [documentation](#documentation)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
+- [electron](#electron)
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [esp32](#esp32)
@@ -152,6 +153,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [svelte](#svelte)
 - [swift](#swift)
 - [tailwindcss](#tailwindcss)
@@ -242,9 +244,13 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 - [Wilm0r/giggity](https://github.com/Wilm0r/giggity) - Generic Android conference schedule viewer
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+
+## angular 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 
 ## ansible 
 
@@ -427,10 +433,6 @@
 
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 
-## dart 
-
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
-
 ## data 
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
@@ -544,6 +546,10 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
+## electron 
+
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
+
 ## embedded 
 
 - [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi motion sensing platform for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
@@ -584,7 +590,7 @@
 
 ## flutter 
 
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 
 ## framework 
 
@@ -624,7 +630,7 @@
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -699,7 +705,7 @@
 
 ## ios 
 
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## iot 
@@ -711,6 +717,7 @@
 ## java 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
 - [krasa/StringManipulation](https://github.com/krasa/StringManipulation) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/2162
@@ -741,7 +748,7 @@
 
 ## kotlin 
 
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 
 ## kubernetes 
 
@@ -1025,7 +1032,7 @@
 - [ashuttl/linecast](https://github.com/ashuttl/linecast) - Weather, tides, the sun, the moon, maps, and a planetarium, in your terminal. The Old Farmer's Almanac meets Minitel.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 - [heikkitoivonen/python-time-space-complexity](https://github.com/heikkitoivonen/python-time-space-complexity) - Python time and space complexity documentation
 - [posit-dev/great-tables](https://github.com/posit-dev/great-tables) - Make awesome display tables using Python
 - [ploMP4/webrockets](https://github.com/ploMP4/webrockets) - High-performance rust powered websockets for python
@@ -1122,14 +1129,14 @@
 ## react 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 
 ## react-native 
 
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 
 ## reactjs 
 
@@ -1156,11 +1163,11 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 - [ploMP4/webrockets](https://github.com/ploMP4/webrockets) - High-performance rust powered websockets for python
 - [colliery-io/graphqlite](https://github.com/colliery-io/graphqlite) - A SQLite extension that adds graph database capabilities with Cypher query language support and built-in graph algorithms.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -1229,13 +1236,17 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 
+## static-site-generator 
+
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+
 ## svelte 
 
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 
 ## swift 
 
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 
 ## tailwindcss 
 
@@ -1280,6 +1291,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1288,7 +1300,7 @@
 ## typescript 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1305,7 +1317,7 @@
 
 ## vue 
 
-- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, presence, clustering without a broker, JWT, end-to-end encryption and signed messages. Written in Rust, for Python (w
+- [silvermpx/wse](https://github.com/silvermpx/wse) - WSE - WebSocket engine for reactive user interfaces: topics with message recovery, an outbox, presence, clustering without a broker, JWT, E2E encryption and signed messages. Python and Rust backends. 
 
 ## web 
 
